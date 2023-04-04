@@ -1,0 +1,4 @@
+CSC8011, Introduction to Software Development, 1, 10
+CSC8012, Software Development Techniques and Tools, 1, 10
+CSC8013, Professional skills and Portfolio, 1, 10
+CSC8014, Software Development Advanced Techniques, 2, 10

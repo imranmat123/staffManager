@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CSC8014 Assessed Coursework Staff Support Manager" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="CSC8014.Main" />
+    <module name="CSC8014 Assessed Coursework Staff Support Manager" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
